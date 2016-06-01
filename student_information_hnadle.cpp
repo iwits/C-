@@ -35,6 +35,7 @@ void student_information::getStudent(){
     cout<<name<<","<<age<<","<<num<<","<<avg_score<<endl;
 }
 
+
 int main(){
     student_information Student;
     Student.setStudent();
